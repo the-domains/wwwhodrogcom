@@ -1,0 +1,35 @@
+typography_spectrum: 0.7144126718992017
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.781528868981923
+  lightness: 0.10585670585946946
+  saturation: 0.16083634484153572
+  rhythmicContrast: 0.8178910712687539
+  brandColors:
+    - '#FFFFFF'
+    - '#600000'
+    - '#9B9B9B'
+    - '#813535'
+    - '#737373'
+github: true
+layout_spectrum: 0.6517191937220937
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/42472168-28dc-4efa-97a1-c146009f9dae.png
+name: WAFT
+navigation:
+  - name: Professional videos
+    url: 'http://hodrog.com'
+    type: external
+  - name: Professional shootings
+    id: d0ae0f8d-3a74-4373-b19b-23dfdd3a5e62
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/309f9e2d-9b4a-4015-a04c-3d748435c999.png
+title: Waft
+content: []
+description: Professional Advertising
+purpose:
+  - type: contact
+    url: 'tel:00201001914277'
+    label: 'Call '
