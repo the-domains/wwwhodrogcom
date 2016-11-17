@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Waft]]></title>
+        <description><![CDATA[Waft]]></description>
+        <link>https://thegrid.ai/wwwhodrogcom/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Nov 2016 12:24:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wwwhodrogcom/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 17 Nov 2016 12:24:14 GMT</pubDate>
+        <item>
+            <title><![CDATA[photos]]></title>
+            <description><![CDATA[<article><h1>photos</h1><p>websites creation and motion graphics</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7bb1ae0-64e7-4a9e-8cf1-44b90726044e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wwwhodrogcom/photos/index.html</link>
+            <guid isPermaLink="false">d1e8c1ab-b3bf-4aa3-b65c-3212742140f3</guid>
+            <pubDate>Thu, 17 Nov 2016 12:24:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a064fa1-c56c-42d8-9c57-b4dd62fa9d66.png">]]></description>
+            <link>https://thegrid.ai/wwwhodrogcom/d0ae0f8d-3a74-4373-b19b-23dfdd3a5e62/index.html</link>
+            <guid isPermaLink="false">d0ae0f8d-3a74-4373-b19b-23dfdd3a5e62</guid>
+            <pubDate>Thu, 17 Nov 2016 12:14:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
