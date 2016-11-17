@@ -27,6 +27,9 @@ navigation:
   - name: photos
     id: d1e8c1ab-b3bf-4aa3-b65c-3212742140f3
     type: content
+  - name: iuh
+    id: 97b16ccc-c443-4864-afe5-b5002256d870
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/309f9e2d-9b4a-4015-a04c-3d748435c999.png
 title: Waft
